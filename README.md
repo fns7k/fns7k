@@ -20,7 +20,7 @@
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 
-<img src="https://discord.com/channels/1049758411560063166/1049758412059193396/1251740086618427454" min-width="400px" max-width="400px" width="400px" align="right" alt="Gu">
+<img src="https://media1.tenor.com/m/4xc-yUo6E_cAAAAC/miguel-o%27hara.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Gu">
 
 
 #### Workstation Tools:
