@@ -12,6 +12,8 @@
 &nbsp;
 &nbsp;
 
+<img src="https://media1.tenor.com/m/4xc-yUo6E_cAAAAC/miguel-o%27hara.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Gu">
+
 #### Programming Languages:
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
@@ -20,7 +22,7 @@
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 
-<img src="https://media1.tenor.com/m/4xc-yUo6E_cAAAAC/miguel-o%27hara.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Gu">
+
 
 
 #### Workstation Tools:
