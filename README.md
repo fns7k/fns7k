@@ -14,10 +14,9 @@
 &nbsp;
 &nbsp;
 
-
+<img src="https://media1.tenor.com/m/4xc-yUo6E_cAAAAC/miguel-o%27hara.gif" min-width="400px" max-width="320px" width="320px" align="right" alt="Gu">
 
 #### Programming Languages:
-<img src="https://media1.tenor.com/m/4xc-yUo6E_cAAAAC/miguel-o%27hara.gif" min-width="400px" max-width="300px" width="300px" align="right" alt="Gu">
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-blue?style=for-the-badge&logo=cplusplus&logoColor=white)&nbsp;
