@@ -3,8 +3,10 @@
 - 🐍 Python - SENAI NAMI JAFET
 - ☕ Java Oracle - SENAI NAMI JAFET
 - 📊 Power BI - SENAI NAMI JAFET
+<div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">
+  <p>- Currently, I am focused on expanding my knowledge in programming languages like Python and JavaScript, as I immerse myself in the world of web development. With each project, I seek to enhance my ability to translate ideas into functional code, always mindful of principles of best practices and clean design. Additionally, I am exploring version control platforms like Git and agile methodologies such as Scrum to improve my efficiency in teamwork. My journey as a novice programmer is marked by stimulating challenges and significant achievements. I am determined to build a strong foundation of technical knowledge and interpersonal skills, essential for my transition into the job market as a professional developer. Every line of code I write represents not only progress in my career but also a step towards my goal of making meaningful contributions to innovative and inspiring projects.</p>
+  </div>
 
-- Currently, I am focused on expanding my knowledge in programming languages like Python and JavaScript, as I immerse myself in the world of web development. With each project, I seek to enhance my ability to translate ideas into functional code, always mindful of principles of best practices and clean design. Additionally, I am exploring version control platforms like Git and agile methodologies such as Scrum to improve my efficiency in teamwork. My journey as a novice programmer is marked by stimulating challenges and significant achievements. I am determined to build a strong foundation of technical knowledge and interpersonal skills, essential for my transition into the job market as a professional developer. Every line of code I write represents not only progress in my career but also a step towards my goal of making meaningful contributions to innovative and inspiring projects.
 
 &nbsp;
 &nbsp;
