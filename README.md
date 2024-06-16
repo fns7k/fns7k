@@ -11,7 +11,6 @@
 
 &nbsp;
 &nbsp;
-##
 
 <img src="https://media1.tenor.com/m/4xc-yUo6E_cAAAAC/miguel-o%27hara.gif" min-width="400px" max-width="350px" width="350px" align="right" alt="Gu">
 
@@ -46,7 +45,13 @@
 <a href="https://app.powerbi.com/">
   <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
 </a>
-
+&nbsp;
+<a href="https://brave.com/">
+  <img src="https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white" alt="Brave">
+</a>
+<a href="https://www.google.com/">
+  <img src="https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google">
+</a>
 
 
 &nbsp;
