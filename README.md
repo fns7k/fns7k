@@ -3,7 +3,6 @@
 - 🐍 Python - SENAI NAMI JAFET
 - ☕ Java Oracle - SENAI NAMI JAFET
 - 📊 Power BI - SENAI NAMI JAFET
-- 🌆 Mogi das Cruzes, SP
 
 <div align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fns7k&layout=compact&langs_count=16&theme=dracula">
@@ -75,5 +74,3 @@
 </div>
 
 </div>&nbsp;&nbsp;
-
-<img src="https://camo.githubusercontent.com/ce26eeddc72e80f3706363df1eedfdeb81905fe41fd9933e4299464ab13faebb/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d384630443837266865696768743d3132302673656374696f6e3d666f6f746572"/>
