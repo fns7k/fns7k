@@ -24,23 +24,22 @@
 <a href="https://www.arduino.cc/">
   <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino">
 </a>
+&nbsp;
 <a href="https://code.visualstudio.com/">
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code">
+</a>
+&nbsp;
+<a href="https://eclipseide.org/">
+  <img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white" alt="phpMyAdmin" style="background-color: orange;">
 </a>
 &nbsp;
 <a href="https://desktop.github.com/">
   <img src="https://img.shields.io/badge/GitHub%20Desktop-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Desktop">
 </a>
 &nbsp;
-<a href="https://eclipseide.org/">
-  <img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white" alt="phpMyAdmin" style="background-color: orange;">
-</a>
 <a href="https://app.powerbi.com/">
   <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
 </a>
-
-
-
 
 
 
