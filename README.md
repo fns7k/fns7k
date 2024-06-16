@@ -1,5 +1,5 @@
 ## Hi, I'm Gustavo Andrigo Alves!!!
-- ⚡ Técnico em Eletrônica - ETEC PRESIDENTE VARGAS
+- ⚡ Electronics Technician - ETEC PRESIDENTE VARGAS
 - 🐍 Python - SENAI NAMI JAFET
 - ☕ Java Oracle - SENAI NAMI JAFET
 - 📊 Power BI - SENAI NAMI JAFET
