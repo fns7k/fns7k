@@ -1,7 +1,8 @@
-## Hi, I'm Gustavo Andrigo!!!
-- ⚡ Técnico em Eletrônica - ETECPV
-- 🐍 Python - SENAI
-- ☕ Java Oracle - SENAI
+## Hi, I'm Gustavo Andrigo Alves!!!
+- ⚡ Técnico em Eletrônica - ETEC PRESIDENTE VARGAS
+- 🐍 Python - SENAI NAMI JAFET
+- ☕ Java Oracle - SENAI NAMI JAFET
+- 📊 Power BI - SENAI NAMI JAFET
 - 🌆 Mogi das Cruzes, SP
 
 <div align="center">
