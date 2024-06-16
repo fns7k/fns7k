@@ -20,6 +20,9 @@
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 
+<img src="https://discord.com/channels/1049758411560063166/1049758412059193396/1251740086618427454" min-width="400px" max-width="400px" width="400px" align="right" alt="Gu">
+
+
 #### Workstation Tools:
 <a href="https://www.arduino.cc/">
   <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino">
@@ -52,6 +55,7 @@
   <a href = "mailto:gustavoandrigoalves@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
+  &nbsp;
   <a href="https://wa.me/5511955935141">
     <img src="https://img.shields.io/badge/WhatsApp-%25C4%2591B9F9.svg?&style=for-the-badge&logo=whatsapp&logoColor=white">
   </a>
