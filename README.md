@@ -3,7 +3,6 @@
 - 🐍 Python - SENAI
 - ☕ Java Oracle - SENAI
 - 🌆 Mogi das Cruzes, SP
-- 😄 Pronouns: he/him
 
 <div align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fns7k&layout=compact&langs_count=16&theme=dracula">
