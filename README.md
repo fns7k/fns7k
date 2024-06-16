@@ -49,6 +49,9 @@
 ## Contacts:
 
 <div>
+  <a href = "mailto:gustavoandrigoalves@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
   <a href="https://wa.me/5511955935141">
     <img src="https://img.shields.io/badge/WhatsApp-%25C4%2591B9F9.svg?&style=for-the-badge&logo=whatsapp&logoColor=white">
   </a>
