@@ -12,7 +12,7 @@
 &nbsp;
 &nbsp;
 
-<img src="https://media1.tenor.com/m/4xc-yUo6E_cAAAAC/miguel-o%27hara.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Gu">
+<img src="https://media1.tenor.com/m/4xc-yUo6E_cAAAAC/miguel-o%27hara.gif" min-width="400px" max-width="200px" width="200px" align="right" alt="Gu">
 
 #### Programming Languages:
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
