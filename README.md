@@ -49,6 +49,7 @@
 <a href="https://brave.com/">
   <img src="https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white" alt="Brave">
 </a>
+&nbsp;
 <a href="https://www.google.com/">
   <img src="https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google">
 </a>
