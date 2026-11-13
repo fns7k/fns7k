@@ -62,18 +62,18 @@
   <img src="https://img.shields.io/badge/MySQL%20Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Workbench">
 </a>
 &nbsp;
-<a href="https://www.postman.com/">
+<!-- <a href="https://www.postman.com/">
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
 </a>
-&nbsp;
+&nbsp; -->
 <!-- <a href="https://www.docker.com/">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
 </a> -->
-&nbsp;
+<!-- &nbsp;
 <a href="https://git-scm.com/">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 </a>
-&nbsp;
+&nbsp; -->
 <a href="https://www.linux.org/">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
 </a>
@@ -81,19 +81,19 @@
 <!-- <a href="https://www.figma.com/">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
 </a> -->
-&nbsp;
+<!-- &nbsp; -->
 <!-- <a href="https://www.anaconda.com/">
   <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda">
 </a> -->
-&nbsp;
+<!-- &nbsp; -->
 <a href="https://www.virtualbox.org/">
   <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" alt="VirtualBox">
 </a>
 &nbsp;
-<a href="https://github.com/features/codespaces">
+<!-- <a href="https://github.com/features/codespaces">
   <img src="https://img.shields.io/badge/GitHub%20Codespaces-181717?style=for-the-badge&logo=githubcodespaces&logoColor=white" alt="GitHub Codespaces">
 </a>
-&nbsp;
+&nbsp; -->
 <a href="https://vercel.com/">
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
 </a>
@@ -117,11 +117,11 @@
 <a href="https://www.kicad.org/">
   <img src="https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white" alt="KiCad">
 </a> -->
-&nbsp;
+<!-- &nbsp;
 <a href="https://unity.com/">
   <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black" alt="Unity">
 </a>
-&nbsp;
+&nbsp; -->
 <!-- <a href="https://brave.com/">
   <img src="https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white" alt="Brave">
 </a>
