@@ -68,11 +68,11 @@
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   &nbsp;
-  <a href="https://wa.me/5511955935141">
+  <a href="https://wa.me/5511932155323">
     <img src="https://img.shields.io/badge/WhatsApp-%25C4%2591B9F9.svg?&style=for-the-badge&logo=whatsapp&logoColor=white">
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/gustavo-andrigo-alves">
+  <a href="https://www.linkedin.com/in/gustavoandrigo">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </div>
