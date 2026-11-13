@@ -36,10 +36,10 @@
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code">
 </a>
 &nbsp;
-<a href="https://visualstudio.microsoft.com/">
+<!-- <a href="https://visualstudio.microsoft.com/">
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" alt="Visual Studio">
 </a>
-&nbsp;
+&nbsp; -->
 <a href="https://www.jetbrains.com/pycharm/">
   <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm">
 </a>
