@@ -1,9 +1,14 @@
 ## Hi, I'm Gustavo Andrigo.
 
-<div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">
-  <p>⚡ Currently, I am focused on expanding my knowledge in programming languages like Python and JavaScript, as well as merging into the world of web development. Alongside this, I am enhancing my skills in electronics, having my Electronics Technician course at Escola Técnica Estadual Presidente Vargas. I am also proficient in Java Oracle and Power BI, skills I acquired through courses at SENAI Nami Jafet. With each project, my goal is to improve my ability to translate ideas into functional code, always adhering to best practices and clean design principles. My journey as a novice programmer and electronics technician is marked by stimulating challenges and significant achievements. I am determined to build a strong foundation of technical knowledge and interpersonal skills, essential for my transition into the job market as a professional developer. Every line of code I write represents not only progress in my career but also a step towards my goal of making meaningful contributions to innovative and inspiring projects. 🐍</p>
-  </div>
+<img src="https://media1.tenor.com/m/4xc-yUo6E_cAAAAC/miguel-o%27hara.gif" width="300px" align="right" alt="Miguel O'Hara">
 
+⚡ Currently, I am focused on expanding my knowledge in programming languages like Python and JavaScript, as well as diving into the world of web development.
+
+Alongside this, I am enhancing my skills in electronics through my Electronics Technician course at Escola Técnica Estadual Presidente Vargas. I am also proficient in Java Oracle and Power BI, skills I acquired through courses at SENAI Nami Jafet.
+
+With each project, my goal is to improve my ability to translate ideas into functional code, always adhering to best practices and clean design principles. My journey as a programmer and electronics technician is marked by stimulating challenges and continuous learning.
+
+I am determined to build a strong foundation of technical knowledge and interpersonal skills, essential for my transition into the job market as a professional developer. Every line of code I write represents progress toward my goal of contributing to innovative and inspiring projects. 🐍
 
 <!-- &nbsp;
 &nbsp; -->
@@ -12,12 +17,12 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fns7k&layout=compact&langs_count=16&theme=dracula">
 </div> -->
 
-&nbsp;
-&nbsp;
+<br clear="right">
 
-<img src="https://media1.tenor.com/m/4xc-yUo6E_cAAAAC/miguel-o%27hara.gif" min-width="400px" max-width="320px" width="320px" align="right" alt="Gu">
+---
 
 #### Programming Languages:
+
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)&nbsp;
@@ -25,9 +30,9 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-
+---
 
 #### Workstation Tools:
 
@@ -148,23 +153,22 @@
   <img src="https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google">
 </a> -->
 
-&nbsp;
-&nbsp;
+<br>
+
+---
 
 ## Contacts:
 
-<div>
-  <a href = "mailto:gustavoandrigoalves@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+<div align="left">
+  <a href="mailto:gustavoandrigoalves@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
   &nbsp;
   <a href="https://wa.me/5511932155323">
-    <img src="https://img.shields.io/badge/WhatsApp-%25C4%2591B9F9.svg?&style=for-the-badge&logo=whatsapp&logoColor=white">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/gustavoandrigo">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </div>
-
-</div>&nbsp;&nbsp;
